@@ -6,5 +6,13 @@ content/logs/
 config.production.json
 content/data/ghost-local.db
 
-content/themes/*
+content/themes/attila
+content/themes/bleak
+content/themes/casper
+content/themes/london
+content/themes/massively
+content/themes/pico 
+content/themes/the-shell
+content/themes/vapor
+
 !content/themes/.gitkeep
